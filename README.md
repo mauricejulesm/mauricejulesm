@@ -6,7 +6,7 @@
 🌱 I’m Software Engineer and Machine Learning enthusiast.
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; Love writing code and learning new stuff<br/><br/>
 
 
 </p>
